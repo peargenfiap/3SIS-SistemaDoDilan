@@ -1,2 +1,2 @@
 # 3SIS-SistemaDoDilan
-Projeto exemplo de uso do git.
+Projeto exemplo de uso do git CMD.
